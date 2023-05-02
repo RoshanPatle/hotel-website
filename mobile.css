@@ -1,0 +1,156 @@
+#showcase .container h1{
+    
+    font-size: 40px;
+}
+#showcase{
+    height: 400px;
+}
+#showcase  .showcase-content {
+padding-top: 50px;
+} 
+
+#showcase .container p{
+    font-size: 18px;
+    line-height: 25px;
+    padding-top: 20px;
+
+}
+
+
+/*----------middle section --------*/
+#home-info{
+    height: 455px;
+}
+#home-info .info-img{
+    display: none;
+    
+}
+#home-info .info-content{
+ float: none;
+ width: 100%;  
+ height: 100%; 
+ 
+}
+
+/*-------features------------*/
+.box{
+    display: flex;
+    flex-direction: column;
+    float:none;
+    width: 100%;
+}
+
+
+
+
+
+.meels{
+    
+    position:absolute;
+    top:60%;
+    left:14%;
+    
+}
+.meels img{
+    position: a
+    ;
+    height: 18rem;
+    z-index: 1;
+
+
+} 
+
+.close-meel{
+    position: absolute;
+    top: 1%;
+    left: 80%;
+
+    padding: 10px;
+    font-size: 50px;
+    background: none;
+    border: none;
+z-index: 5;
+cursor: pointer;
+
+}
+
+
+
+
+.gyms{
+    
+    position:absolute;
+    top:80%;
+    left:13%;
+    
+}
+.gyms img{
+    position: a
+    ;
+    height: 13rem;
+    z-index: 1;
+    border-radius: 10px;
+
+}
+
+.close-gym{
+    position: absolute;
+    top: 0%;
+    left: 80%;
+    padding: 10px;
+    font-size: 60px;
+    
+    background: none;
+    border: none;
+z-index: 5;
+cursor: pointer;
+
+}
+
+
+
+
+/*-----------------------about page--------------*/
+
+#about-info .info-right{
+    float: none;
+width: 100%;
+   
+}
+
+#about-info .info-left{
+    float: none;
+    width: 80%;
+    margin-bottom: 50px;
+}
+#about-info .info-left h1{
+    font-size:30px;
+    
+}
+
+
+
+#testimonials{
+    height: 800px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+/*--------------------contact page-----------------*/
+.LPE{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
